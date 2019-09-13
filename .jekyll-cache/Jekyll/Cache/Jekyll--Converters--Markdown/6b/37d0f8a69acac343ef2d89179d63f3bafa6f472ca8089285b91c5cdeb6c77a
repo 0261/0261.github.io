@@ -1,0 +1,13 @@
+I"3<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/category/foo/" title="first test" class="post-teaser">
+  <p class="entry-date date published"><time datetime="2019-09-13" itemprop="datePublished">September 13, 2019</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/category/foo/">first test</a></h2>
+  <p class="post-excerpt" itemprop="description">test articles</p>
+&lt;/article&gt;<!-- /.tile -->
+
+
+&lt;/div&gt;<!-- /.tiles -->
+</a></article></div>
+:ET

@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "0261 블로그"
 ---
 
 <div class="tiles">

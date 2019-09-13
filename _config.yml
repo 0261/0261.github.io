@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "0261 블로그"
+title: "home"
 description: "개발자 블로그 입니다."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -28,12 +28,8 @@ plugins:
 owner:
   name: padakim
   email: bada013@naver.com
-  twitter:
-  google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: developer
+  avatar: logo.jpeg # 160x160 px image for author byline
   disqus-shortname:
 
 include:
