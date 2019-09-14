@@ -29,7 +29,7 @@ owner:
   name: padakim
   email: bada013@naver.com
   bio: developer
-  avatar: logo.jpeg # 160x160 px image for author byline
+  avatar: profile.png # 160x160 px image for author byline
   disqus-shortname:
 
 include:
